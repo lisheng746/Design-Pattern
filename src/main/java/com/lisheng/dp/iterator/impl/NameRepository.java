@@ -1,7 +1,7 @@
-package com.lisheng.dp.Iterator.impl;
+package com.lisheng.dp.iterator.impl;
 
-import com.lisheng.dp.Iterator.intf.Container;
-import com.lisheng.dp.Iterator.intf.Iterator;
+import com.lisheng.dp.iterator.intf.Container;
+import com.lisheng.dp.iterator.intf.Iterator;
 
 /**
  * Created by lisheng on 2018/3/10.

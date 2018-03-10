@@ -1,7 +1,7 @@
-package com.lisheng.dp.Iterator.main;
+package com.lisheng.dp.iterator.main;
 
-import com.lisheng.dp.Iterator.impl.NameRepository;
-import com.lisheng.dp.Iterator.intf.Iterator;
+import com.lisheng.dp.iterator.impl.NameRepository;
+import com.lisheng.dp.iterator.intf.Iterator;
 
 /**
  * Created by lisheng on 2018/3/10.

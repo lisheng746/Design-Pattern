@@ -1,4 +1,4 @@
-package com.lisheng.dp.Iterator.intf;
+package com.lisheng.dp.iterator.intf;
 
 /**
  * Created by lisheng on 2018/3/10.
